@@ -6,3 +6,5 @@
 /data-related/TwitterProcessedDataset.csv
 /output.csv
 /data-related/bertResults
+/data-related/distilbertResults
+/data-related/robertaResults
