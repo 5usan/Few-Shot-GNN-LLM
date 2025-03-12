@@ -8,3 +8,6 @@
 /data-related/bertResults
 /data-related/distilbertResults
 /data-related/robertaResults
+/data-related/geotext-bertResults
+/data-related/geotext-distilbertResults
+/data-related/geotext-robertaResults
